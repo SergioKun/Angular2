@@ -1,0 +1,1 @@
+Proyecto que muestra la configuracón basica de una aplicación Angular 2
